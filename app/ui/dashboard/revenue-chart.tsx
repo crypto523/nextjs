@@ -17,11 +17,11 @@ export default async function RevenueChart({
   const chartHeight = 350;
   // NOTE: comment in this code when you get to this point in the course
 
-  // const { yAxisLabels, topLabel } = generateYAxis(revenue);
+  const { yAxisLabels, topLabel } = generateYAxis(revenue);
 
-  // if (!revenue || revenue.length === 0) {
-  //   return <p className="mt-4 text-gray-400">No data available.</p>;
-  // }
+  if (!revenue || revenue.length === 0) {
+    return <p className="mt-4 text-gray-400">No data available.</p>;
+  }
 
   return (
     <div className="w-full md:col-span-4">
