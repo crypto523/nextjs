@@ -1,0 +1,35 @@
+[33mcommit ab8f3d4bebfcb36e5f6441aa113c6efab04af438[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: DennisWilliams <denniswilliams90813@gmail.com>
+Date:   Mon Jan 22 08:17:59 2024 -0800
+
+    streaming completed
+
+[33mcommit 73ad44c7fc67ab43be4fd531e115b01b85369105[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DennisWilliams <denniswilliams90813@gmail.com>
+Date:   Mon Jan 22 05:13:18 2024 -0800
+
+    streaming fix
+
+[33mcommit 2ab945a18c4ace71fa518cff1e339b78e89c26b6[m
+Author: DennisWilliams <denniswilliams90813@gmail.com>
+Date:   Sun Jan 21 15:43:14 2024 -0800
+
+    revenue-chart fix errors
+
+[33mcommit fc18d72609a0796d20e02d49926beacd9f88c141[m
+Author: DennisWilliams <denniswilliams90813@gmail.com>
+Date:   Sun Jan 21 12:03:17 2024 -0800
+
+    fetch revenue
+
+[33mcommit f037e2005a174d20fb3a62a746c064bcc9abd1fa[m
+Author: DennisWilliams <denniswilliams90813@gmail.com>
+Date:   Sun Jan 21 08:59:22 2024 -0800
+
+    initial project
+
+[33mcommit 2dd560e32958b5708d09b186f298b14b306b09c6[m
+Author: DennisWilliams90813 <156914343+DennisWilliams90813@users.noreply.github.com>
+Date:   Sun Jan 21 07:03:35 2024 -0800
+
+    Initial commit
