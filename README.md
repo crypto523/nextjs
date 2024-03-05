@@ -1,3 +1,3 @@
 # nextjs
 This is a nextjs project.
-![image]()
+!['image']('./public/customers/hero-desktop.png')
